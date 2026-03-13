@@ -23,14 +23,14 @@ DevOps/SRE Engineer with more than 5 years of experience with solid knowledge in
 
 ### Tech Stack
 
-**Cloud:** AWS (EKS, ECS, Lambda, RDS, S3, CloudFront, Route 53, IAM, CloudFormation)
+**Cloud:** AWS (EKS, ECS, Lambda, RDS, S3, CloudFront, Route 53, IAM, VPC)
 
 **Containers & Orchestration:** Kubernetes, Docker, Karpenter, ArgoCD, Helm
 
-**IaC:** Terraform, CloudFormation, Kustomize
+**IaC:** Terraform, CloudFormation
 
 **Observability:** Grafana, Prometheus, Loki, Tempo, OpenTelemetry, CloudWatch
 
-**CI/CD:** GitHub Actions, GitLab CI, ArgoCD, Docker Buildx
+**CI/CD:** GitHub Actions, GitLab CI, ArgoCD, CodeDeploy
 
 **Languages:** Python, Bash, TypeScript, HCL
