@@ -39,6 +39,7 @@ DevOps/SRE Engineer with more than 5 years of experience with solid knowledge in
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [**aws-platform**](https://github.com/diego-zetria/aws-platform) | Terraform, Terragrunt | Production AWS infrastructure — multi-region ECS Fargate, RDS Aurora, Lambda, VPC, IAM, CloudFront |
 | [**eks-karpenter-graviton-poc**](https://github.com/diego-zetria/eks-karpenter-graviton-poc) | Terraform, EKS | Production-ready EKS cluster with Karpenter autoscaling, Graviton ARM64, and Spot instances |
 | [**observability-stack**](https://github.com/diego-zetria/observability-stack) | Grafana, CloudFormation | Full LGTM observability platform with 9 dashboards, deployed on AWS ECS Fargate |
 | [**ai-marketing-orchestrator**](https://github.com/diego-zetria/ai-marketing-orchestrator) | Python, FastAPI, AWS | AI-powered marketing automation with Telegram bot, approval portal, and Instagram analytics |
